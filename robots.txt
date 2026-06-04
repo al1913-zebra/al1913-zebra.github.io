@@ -1,0 +1,6 @@
+# Algolia-Crawler-Verif: B9840C3026D55A3C
+
+User-agent: *
+Allow: /
+
+Sitemap: https://al1913-zebra.github.io/zebra-handheld-rfid-iotc/sitemap.xml
